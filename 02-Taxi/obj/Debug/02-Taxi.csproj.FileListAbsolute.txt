@@ -1,0 +1,7 @@
+D:\kuliah\Semester 2\PEMROGRAMAN\TUGAS\Taxi\02-Taxi\bin\Debug\02-Taxi.exe.config
+D:\kuliah\Semester 2\PEMROGRAMAN\TUGAS\Taxi\02-Taxi\bin\Debug\02-Taxi.exe
+D:\kuliah\Semester 2\PEMROGRAMAN\TUGAS\Taxi\02-Taxi\bin\Debug\02-Taxi.pdb
+D:\kuliah\Semester 2\PEMROGRAMAN\TUGAS\Taxi\02-Taxi\obj\Debug\02-Taxi.csprojAssemblyReference.cache
+D:\kuliah\Semester 2\PEMROGRAMAN\TUGAS\Taxi\02-Taxi\obj\Debug\02-Taxi.csproj.CoreCompileInputs.cache
+D:\kuliah\Semester 2\PEMROGRAMAN\TUGAS\Taxi\02-Taxi\obj\Debug\02-Taxi.exe
+D:\kuliah\Semester 2\PEMROGRAMAN\TUGAS\Taxi\02-Taxi\obj\Debug\02-Taxi.pdb
